@@ -1,4 +1,5 @@
 📌 Factor-Based Portfolio Optimization
+
 A Multi-Factor Approach to Portfolio Management using the Fama-French Three-Factor Model
 
 📊 Project Overview
@@ -26,10 +27,10 @@ Initial constraints: Weights sum to 1.
 Enhanced constraints: Maximum stock/industry weights, transaction costs.
 
 📈 Key Insights
-The initial efficient frontier resulted in highly concentrated portfolio weights.
-Adding constraints improved diversification and risk-adjusted returns.
-The optimized portfolio maintained strong factor exposures.
-Regular rebalancing is necessary due to the dynamic nature of factor performances.
+1. The initial efficient frontier resulted in highly concentrated portfolio weights.
+2. Adding constraints improved diversification and risk-adjusted returns.
+3. The optimized portfolio maintained strong factor exposures.
+4. Regular rebalancing is necessary due to the dynamic nature of factor performances.
 
 🔮 Future Work
 Incorporate additional factors (e.g., momentum, quality).
